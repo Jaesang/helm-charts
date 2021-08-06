@@ -25,10 +25,10 @@ jobs:
         with:
           token: ${{ secrets.HANU }}
           charts_dir: .
-          charts_url:  https://openinfradev.github.io/helm-repo
-          owner: openinfradev
+          charts_url:  https:/Jaesang.github.io/helm-repo
+          owner: Jaesang
           repository: helm-repo
           branch: main
           linting: off
-          commit_username: hanu-jenkins
-          commit_email: hanu-jenkins@sk.com
+          commit_username: "Jaesang Lee"
+          commit_email: jaesang_lee@sk.com
