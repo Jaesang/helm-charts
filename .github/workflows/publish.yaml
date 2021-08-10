@@ -25,7 +25,7 @@ jobs:
         with:
           token: ${{ secrets.HANU }}
           charts_dir: .
-          charts_url:  https:/jaesang.github.io/helm-repo
+          charts_url:  https://jaesang.github.io/helm-repo
           owner: Jaesang
           repository: helm-repo
           branch: main
